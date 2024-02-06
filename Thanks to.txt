@@ -1,0 +1,2 @@
+Thanks to Localcc for the PDK
+Thanks to the Nebulae Discord users for early resources on the PDK.

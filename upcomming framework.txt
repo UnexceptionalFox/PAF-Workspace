@@ -1,0 +1,3 @@
+I am Currently Developing an Animation framework. It will use Json to store metadata such as tagging, and will be esential for extensiable Animation packs.
+
+For more information on how to prepare join the PalWorks discord - https://discord.gg/33dE4cQMA3 
