@@ -12,6 +12,7 @@ You want to import the fbx in the directory in which the mesh is located normall
 
 If there is a folder labeled 0, Import that fbx first!!!
 For each model, import the FBX in Folder 1, then Import the FBX in folder 2 on top of it.
+(You can drag the fbx files into the editor one after the other)
 
 Some models have alternative meshes.
 For alternate versions of the same pal you do not have to import the skeleton, You can import the base form first, then have the alternate form use the abse form's skeleton.(Default use case)
