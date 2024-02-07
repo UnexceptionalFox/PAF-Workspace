@@ -2,7 +2,7 @@
 
 This will contain resources for importing models into ue5 editor correctly.
 
-### This is a very early release. Many models are not tested, and alot may be still broken. Please report all Broken Models as an Issue on this Repo, or In my discord server at: https://discord.gg/33dE4cQMA3 
+### Please report all Broken Models as an Issue on this Repo, or In my discord server at: https://discord.gg/33dE4cQMA3 
 You may also report if a model is working as intended. I will be updating this repo until all models are working properly. I will then move onto NPCs.
 
 
